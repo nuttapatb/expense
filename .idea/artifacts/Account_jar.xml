@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Account:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Account_jar</output-path>
+    <root id="archive" name="Account.jar">
+      <element id="module-output" name="Account" />
+    </root>
+  </artifact>
+</component>
